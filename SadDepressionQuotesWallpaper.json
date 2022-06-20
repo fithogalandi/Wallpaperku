@@ -1,0 +1,37 @@
+{
+  "username": "fithogalandi",
+  "album": [
+    "SadDepressionQuotes"
+    ],
+  "init_jumlah_photo": 500,
+  "pub_id": "pub-9946079883508585",
+  "app_id": "ca-app-pub-9946079883508585~2111598727",
+  "admob_banner_id": "ca-app-pub-9946079883508585/3233108707",
+  "admob_interstitial_id": "ca-app-pub-9946079883508585/9941987288",
+  "admob_native_id": "ca-app-pub-9946079883508585/8102292003",
+  "admob_rewared_id": "ca-app-pub-9946079883508585/5667700354",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
